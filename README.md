@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 사이트
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://recogito.github.io/annotorious/
 
 ## Available Scripts
 
